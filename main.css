@@ -1,0 +1,28 @@
+body {
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+}
+
+#portfolio-link {
+  position: fixed;
+  left: 5%;
+  /* right: 5%; */
+  /* bottom: 5%; */
+  top: 5%;
+  color: #ff0;
+  /* color: orange; */
+  /* color: royalblue; */
+  /* color: aqua; */
+  /* color: #00ff11; */
+
+  text-decoration: none;
+  /* font-size: 2rem; */
+  font-size: 2rem;
+  /* font-weight: 700; */
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  /* font-weight: 600; */
+  font-weight: bold;
+  font-style: italic;
+  /* z-index: 1; */
+}
